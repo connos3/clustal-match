@@ -1,5 +1,3 @@
-import re
-
 ## BUGS
 ## 1. max() only does first maximum value if duplicates exist.
 ## 2. 
