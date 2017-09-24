@@ -1,4 +1,4 @@
-clustal-match
+# clustal-match
 
 This is a program created to quickly determine the n-length sequence of clustal alignment with most base-pair matches for use in PCR and LAMP primer design. 
 
